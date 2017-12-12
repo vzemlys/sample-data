@@ -1,0 +1,862 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html><head>
+    <base href="http://orai.15min.lt/">
+    <title>Orų prognozė Vilniuje | Orai.lt</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="Description" content="Ilgalaikė orų prognozė Vilniuje, " />
+    <meta name="Keywords" content="orai Vilniuje, Vilnius, orų prognozė Vilniuje" />
+    <meta property="fb:app_id" content="148526448542277" />
+    <link rel="stylesheet" href="css/orai.css?css=9" type="text/css" />
+    <link rel="stylesheet" href="http://s1.15cdn.lt/css/weather/small_icons.css?css=9" type="text/css" />
+    <script language="javascript" type="text/javascript" src="js/orai.js?js=2"></script>
+
+    <script type="text/javascript" src="//s1.15cdn.lt/js/jquery/jquery.js"></script>
+    <link type="text/css" rel="stylesheet" href="css/jquery-ui.css" />
+    <script type="text/javascript" src="//s1.15cdn.lt/js/jquery/jquery-ui.js"></script>
+    <script type="text/javascript" src="//s1.15cdn.lt/js/jquery/fancybox/jquery.fancybox.js"></script>
+    <link type="text/css" rel="stylesheet" href="//s1.15cdn.lt/css/jquery/fancybox/jquery.fancybox.css" />
+
+    <!-- (C)2000-2012 Gemius SA - gemiusAudience / 15min / orai_15min_lt -->
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var pp_gemius_identifier = new String('d1BLoosuNO1jUGLtYfs7crQY33LKtK_X2feVAa.3.Jr.I7');
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.15min.lt/js/xgemius.js"></script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5421911-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/lt_LT/all.js#xfbml=1&appId=217872834903257";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<table id="wrapper" align="center" border="0" cellpadding="0" cellspacing="0">
+        <tr>
+        <td width="1000">
+                        <table align="center" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td class="did_baneris" align="center">
+                        <div class="hdr-ads" id="hdrAdsContainer" style="margin-bottom: 0; padding-bottom: 0; clear: both;">
+
+	<div class="hdr-ac" id="lazy_banner_pos_10" style="width: 1000px; padding-left:0px;">
+		<script type="text/javascript" src="http://adsplius.lt/banners_15min.js?pos=10&amp;lng=lt&amp;rnd=129401075&amp;wrap=ads-cnt&amp;p=10001"></script>
+	</div>
+
+	<script type="text/javascript" charset="utf-8">
+	/* <![CDATA[ */
+	var jq_lb_2 = jQuery('#lazy_banner_pos_10');
+	if (typeof gateway_type != 'undefined' || typeof gateway_fixed != 'undefined') {
+
+		var img_src = jQuery('a img', jq_lb_2).attr('src');
+		var a_href = jQuery('a', jq_lb_2).attr('href');
+
+		var gates_on = false;
+		if (typeof img_src != 'undefined' && typeof a_href != 'undefined') {
+
+			function penkiolika_gtw() {
+				jQuery.getScript('http://orai.15min.lt/js/banners/gateway_main.js?js=2', function() {
+					jQuery(function() {
+						left_jq_clk.show();
+						right_jq_clk.show();
+					});
+				});
+			}
+
+			if (jQuery.browser.msie == true || jQuery.browser.opera == true) {
+				jQuery(function() {
+					penkiolika_gtw();
+				});
+			} else {
+				penkiolika_gtw();
+			}
+			gates_on = true;
+		} else {
+			jq_lb_2.hide();//.remove();
+		}
+	} else { 		jq_lb_2.show();
+
+		if (typeof ban_pos_2_w != 'undefined' && ban_pos_2_w <= 750) {
+			savi();
+		}
+	}
+	/* ]]> */
+	</script>
+
+</div>                    </td>
+                </tr>
+                <tr>
+                                        <td class="meniu" width="1000">
+                        <div class="head-logo-cnt">
+                            <a href="http://orai.15min.lt/"><img src="img/orai_lt_logo.png" width="147" height="96" alt="logo" border="0" /></a>
+                        </div>
+                        <div class="head-time-cnt">
+                            2013 m. sausio 21 d. pirmadienis 00:00                        </div>
+					
+						<div class="fb-like" data-href="http://www.facebook.com/orai.lt" data-send="false" data-layout="button_count" data-width="150" data-show-faces="false" data-font="arial"></div>
+
+                        <div class="head-dayinfo-cnt">
+                                                        Teka: <strong>08:26</strong>, Leidžiasi: <strong>16:34</strong>, Dienos ilgumas: <strong>8:8</strong>
+                                                        <br>
+                                                                                                            </div>
+                    </td>
+                </tr>
+                                <tr>
+                    <td class="meniu" width="1000" height="7">
+                    	                    	
+                        <table class="top-menu" align="right" border="0" cellpadding="0" cellspacing="0" width="100%">
+                            <tr width="100%">
+                            	<td class="menu menu-search">
+                            		<div class="search-box">
+                            			<span class="desc">Įveskite vietovės pavadinimą. Pvz.: <a href="/lt/prognozes/klaipeda" title="Klaipėdos miesto orų prognozė">Klaipėda</a>, <a href="/lt/prognozes/alytus" title="Alytaus miesto orų prognozė">Alytus</a>...</span>
+                            			<input type="text" id="city_search" placeholder="Orų prognozių paieška..." />
+                            		</div>
+                            	</td>
+                                <td class="meniu meniu-blue-ln" align="left">&nbsp;
+                                    <a class="min15-back" href="http://www.15min.lt/" title="15min.lt">
+                                        min.lt
+                                    </a>
+                                </td>
+                                                                                                    <td class="meniu meniu-blue-ln" align="center"><span class="menu-itm"><a href="lt/pradzia">PRADŽIA</a></span></td>
+                                                                                                        <td class="meniu meniu-yellow-ln" align="center"><span class="menu-itm menu-itm-active"><a href="lt/prognozes">PROGNOZĖS</a></span></td>
+                                                                                                        <td class="meniu meniu-blue-ln" align="center"><span class="menu-itm"><a href="lt/apzvalga">APŽVALGA</a></span></td>
+                                                                                                        <td class="meniu meniu-blue-ln" align="center"><span class="menu-itm"><a href="lt/zemelapiai">ŽEMĖLAPIAI</a></span></td>
+                                                                                                        <td class="meniu meniu-blue-ln" align="center"><span class="menu-itm"><a href="lt/vaizdas">VAIZDAS</a></span></td>
+                                                                                                        <td class="meniu meniu-blue-ln" align="center"><span class="menu-itm"><a href="lt/idomybes">ĮDOMYBĖS</a></span></td>
+                                                                </tr>
+                        </table>
+                        
+                        <script type="text/javascript">
+						/* <![CDATA[ */
+						
+						jQuery.support.placeholder = (function(){
+						    var i = document.createElement('input');
+						    return 'placeholder' in i;
+						})();
+						
+						if (!jQuery.support.placeholder && jQuery('#city_search').val() == '') {
+							jQuery('#city_search').val('Orų prognozių paieška...');
+						
+							jQuery('#city_search').bind('focus blur', function(){
+								focusBlurInput(jQuery(this),'Orų prognozių paieška...');
+							});
+						}
+						
+						jQuery(function() {
+							var cities = [{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"vilnius","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Vilnius","value":"Vilnius","temperature":"-13","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kaunas","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kaunas","value":"Kaunas","temperature":"-16","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"klaipeda","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Klaip\u0117da","value":"Klaip\u0117da","temperature":"-12","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"siauliai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"\u0160iauliai","value":"\u0160iauliai","temperature":"-17","icon":"4","icon_var":"04n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"panevezys","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Panev\u0117\u017eys","value":"Panev\u0117\u017eys","temperature":"-19","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"alytus","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Alytus","value":"Alytus","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"utena","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Utena","value":"Utena","temperature":"-17","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"varena","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Var\u0117na","value":"Var\u0117na","temperature":"-16","icon":"4","icon_var":"04n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"birzai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bir\u017eai","value":"Bir\u017eai","temperature":"-16","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"mazeikiai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Ma\u017eeikiai","value":"Ma\u017eeikiai","temperature":"-14","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"nida","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Nida","value":"Nida","temperature":"-10","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"druskininkai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Druskininkai","value":"Druskininkai","temperature":"-16","icon":"4","icon_var":"04n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"birstonas","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bir\u0161tonas","value":"Bir\u0161tonas","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"anyksciai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Anyk\u0161\u010diai","value":"Anyk\u0161\u010diai","temperature":"-17","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"telsiai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Tel\u0161iai","value":"Tel\u0161iai","temperature":"-13","icon":"4","icon_var":"04n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"palanga","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Palanga","value":"Palanga","temperature":"-13","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"sventoji","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"\u0160ventoji","value":"\u0160ventoji","temperature":"-13","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"taurage","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Taurag\u0117","value":"Taurag\u0117","temperature":"-18","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"marijampole","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Marijampol\u0117","value":"Marijampol\u0117","temperature":"-17","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"svencele","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Svencel\u0117","value":"Svencel\u0117","temperature":"-12","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"dreverna","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Dreverna","value":"Dreverna","temperature":"-13","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"ventaine","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Ventain\u0117","value":"Ventain\u0117","temperature":"-12","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"monciskes","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Monci\u0161k\u0117s","value":"Monci\u0161k\u0117s","temperature":"-13","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"elektrenu-marios","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Elektr\u0117n\u0173 marios","value":"Elektr\u0117n\u0173 marios","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kauno-marios","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kauno marios","value":"Kauno marios","temperature":"-16","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"dusia","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Dusia","value":"Dusia","temperature":"-16","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kertuoja","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kertuoja","value":"Kertuoja","temperature":"-15","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"plateliai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Plateliai","value":"Plateliai","temperature":"-14","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"alausas","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Alau\u0161as","value":"Alau\u0161as","temperature":"-16","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"galve","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Galv\u0117","value":"Galv\u0117","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"juodkrante","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Juodkrant\u0117","value":"Juodkrant\u0117","temperature":"-11","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"moletai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Mol\u0117tai","value":"Mol\u0117tai","temperature":"-16","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"trakai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Trakai","value":"Trakai","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kedainiai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"K\u0117dainiai","value":"K\u0117dainiai","temperature":"-18","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"jonava","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Jonava","value":"Jonava","temperature":"-16","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kretinga","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kretinga","value":"Kretinga","temperature":"-13","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"plunge","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Plung\u0117","value":"Plung\u0117","temperature":"-14","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"radviliskis","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Radvili\u0161kis","value":"Radvili\u0161kis","temperature":"-19","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"silute","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"\u0160ilut\u0117","value":"\u0160ilut\u0117","temperature":"-18","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"ukmerge","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Ukmerg\u0117","value":"Ukmerg\u0117","temperature":"-16","icon":"2","icon_var":"02n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"visaginas","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Visaginas","value":"Visaginas","temperature":"-16","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"gargzdai","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Garg\u017edai","value":"Garg\u017edai","temperature":"-14","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"amsterdam","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Amsterdamas ","value":"Amsterdamas ","temperature":"-4","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"andorra-la-vella","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Andora ","value":"Andora ","temperature":"-2","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"athens","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"At\u0117nai ","value":"At\u0117nai ","temperature":"13","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"barcelona","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Barselona","value":"Barselona","temperature":"10","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"belgrade","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Belgradas ","value":"Belgradas ","temperature":"10","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"berlin","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Berlynas","value":"Berlynas","temperature":"-7","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"berne","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bernas ","value":"Bernas ","temperature":"2","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"bratislava","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bratislava ","value":"Bratislava ","temperature":"1","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"bremen","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bremenas","value":"Bremenas","temperature":"-4","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"budapest","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Budape\u0161tas ","value":"Budape\u0161tas ","temperature":"1","icon":"5","icon_var":"05d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"bucharest","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Bukare\u0161tas ","value":"Bukare\u0161tas ","temperature":"-1","icon":"1","icon_var":"01n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"dublin","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Dublinas ","value":"Dublinas ","temperature":"3","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"frankfurt-am-main","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Frankfurtas prie Maino","value":"Frankfurtas prie Maino","temperature":"-1","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"helsinki","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Helsinkis ","value":"Helsinkis ","temperature":"-9","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"kyiv","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kijevas ","value":"Kijevas ","temperature":"-7","icon":"13","icon_var":"13n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"chisinau","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Ki\u0161iniovas ","value":"Ki\u0161iniovas ","temperature":"1","icon":"8","icon_var":"08n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"copenhagen","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Kopenhaga ","value":"Kopenhaga ","temperature":"-5","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"lisbon","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Lisabona ","value":"Lisabona ","temperature":"14","icon":"2","icon_var":"02d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"ljublijana","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Liubliana ","value":"Liubliana ","temperature":"4","icon":"9","icon_var":"09d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"luxembourg","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Liuksemburgas","value":"Liuksemburgas","temperature":"-3","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"london","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Londonas ","value":"Londonas ","temperature":"-1","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"madrid","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Madridas","value":"Madridas","temperature":"5","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"valletta","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Malta Valeta ","value":"Malta Valeta ","temperature":"17","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"moscow","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Maskva ","value":"Maskva ","temperature":"-14","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"milan","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Milanas","value":"Milanas","temperature":"2","icon":"9","icon_var":"09d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"minsk","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Minskas ","value":"Minskas ","temperature":"-11","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"monaco","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Monakas ","value":"Monakas ","temperature":"9","icon":"9","icon_var":"09d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"oslo","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Oslas ","value":"Oslas ","temperature":"-5","icon":"1","icon_var":"01d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"paris","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Pary\u017eius ","value":"Pary\u017eius ","temperature":"-2","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"prague","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Praha ","value":"Praha ","temperature":"-4","icon":"13","icon_var":"13d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"reykjavik","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Reikjavikas ","value":"Reikjavikas ","temperature":"4","icon":"1","icon_var":"01d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"rome","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Roma ","value":"Roma ","temperature":"13","icon":"10","icon_var":"10d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"riga","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Ryga ","value":"Ryga ","temperature":"-13","icon":"4","icon_var":"04n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"san-marino","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"San Marinas ","value":"San Marinas ","temperature":"5","icon":"9","icon_var":"09d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"sarajevo","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Sarajevas ","value":"Sarajevas ","temperature":"10","icon":"9","icon_var":"09d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"skopje","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Skopj\u0117 ","value":"Skopj\u0117 ","temperature":"9","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"sofia","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Sofija ","value":"Sofija ","temperature":"4","icon":"3","icon_var":"03n"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"saint-petersburg","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"St.Peterburgas","value":"St.Peterburgas","temperature":"-9","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"stokcholm","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Stokholmas ","value":"Stokholmas ","temperature":"-5","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"tallinn","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Talinas ","value":"Talinas ","temperature":"-8","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"tirana","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Tirana ","value":"Tirana ","temperature":"13","icon":"3","icon_var":"03d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"vatican","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Vatikanas ","value":"Vatikanas ","temperature":"13","icon":"10","icon_var":"10d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"vienna","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Viena ","value":"Viena ","temperature":"-1","icon":"4","icon_var":"04d"},{"id":"30","title":"Galv\u0117","title_genitive":"Galv\u0117je","title_original":"","country":"127","slug":"zagreb","source":"http:\/\/www.yr.no\/place\/Lithuania\/Other\/Galv%C4%97s_E%C5%BEeras\/varsel.xml","sort":"300","big":"0","active":"1","group":"lt,wind_sports","in_map":"no","label":"Zagrebas ","value":"Zagrebas ","temperature":"5","icon":"10","icon_var":"10d"}];
+						
+							jQuery('#city_search').autocomplete({
+								minLength: 2,
+								source: function(request, response) {
+									var results = $.ui.autocomplete.filter(cities, request.term);
+									response(results.slice(0, 5));
+							    },
+								select: function(event, ui) {
+									window.location = 'lt/prognozes/' + ui.item.slug;
+								}
+							}).data('autocomplete')._renderItem = function(ul, item) {
+								return jQuery('<li></li>')
+								.data('item.autocomplete', item)
+								.append('<a><span class="city_name">' + item.label + '<br/><small>Ilgalaikė prognozė</small></span><span class="weather_icons weather_icon_' + item.icon_var + '"></span><span class="temperature '+ (parseInt(item.temperature) >= 0 ? 'positive' : 'negative') +'">' + item.temperature + '°C</span><div class="clear"></div></a>')
+								.appendTo(ul);
+							};
+						});
+						
+						function focusBlurInput(el, val)
+						{
+							if (!el || !val) {
+								return false;
+							}
+							
+							var elm = jQuery(el);
+							var el_val = elm.val();
+							
+							if (el_val == val) {
+								elm.val('');
+							} else if (!el_val) {
+								elm.val(val);
+							}
+						}
+						/* ]]> */
+						</script>
+                    </td>
+                </tr>
+                                <tr>
+                    <td class="main">
+                        <img src="img/orai-head-ln.jpg" width="1000" />
+                    </td>
+                </tr>
+                                <tr>
+                    <td class="main" width="1000">
+                        <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+    <tr>
+        <td width="690px" valign="top" align="center" class="rightmenutable">
+            
+<div class="weather_long_term">
+    <h1>Vilnius<span>Ilgalaikė prognozė</span></h1>
+
+        <div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 20 d. <br /><span>Sekmadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_2" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:28</strong><br />
+                saulė leidžiasi <strong>16:32</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">23:00 - 05:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -13&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nnw.gif" alt="ŠV" /> <strong>ŠV</strong> 1.7m/s</td>
+        <td class="wind pressure">1005.4 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Šiandien, sausio 21 d. <br /><span>Pirmadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:26</strong><br />
+                saulė leidžiasi <strong>16:34</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow2">
+        <td class="time">05:00 - 11:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -16&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/n.gif" alt="Š" /> <strong>Š</strong> 3.2m/s</td>
+        <td class="wind pressure">1007.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">11:00 - 17:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -15&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ne.gif" alt="ŠR" /> <strong>ŠR</strong> 1.7m/s</td>
+        <td class="wind pressure">1011.3 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">17:00 - 23:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -11&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ne.gif" alt="ŠR" /> <strong>ŠR</strong> 2.4m/s</td>
+        <td class="wind pressure">1012 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">23:00 - 05:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -12&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ene.gif" alt="ŠR" /> <strong>ŠR</strong> 3.6m/s</td>
+        <td class="wind pressure">1013.5 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Rytoj, sausio 22 d. <br /><span>Antradienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:25</strong><br />
+                saulė leidžiasi <strong>16:36</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow2">
+        <td class="time">05:00 - 11:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -13&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ene.gif" alt="ŠR" /> <strong>ŠR</strong> 4.3m/s</td>
+        <td class="wind pressure">1013.8 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">11:00 - 17:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -13&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ene.gif" alt="ŠR" /> <strong>ŠR</strong> 4.9m/s</td>
+        <td class="wind pressure">1014.8 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">17:00 - 23:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -14&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ene.gif" alt="ŠR" /> <strong>ŠR</strong> 2.5m/s</td>
+        <td class="wind pressure">1014.5 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Poryt, sausio 23 d. <br /><span>Trečiadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:24</strong><br />
+                saulė leidžiasi <strong>16:38</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -17&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ne.gif" alt="ŠR" /> <strong>ŠR</strong> 2.3m/s</td>
+        <td class="wind pressure">1015.4 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -18&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nne.gif" alt="ŠR" /> <strong>ŠR</strong> 2.4m/s</td>
+        <td class="wind pressure">1015.3 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -12&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nnw.gif" alt="ŠV" /> <strong>ŠV</strong> 1.2m/s</td>
+        <td class="wind pressure">1015.5 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -13&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nw.gif" alt="ŠV" /> <strong>ŠV</strong> 1.7m/s</td>
+        <td class="wind pressure">1016.1 hPa</td>
+        <td class="wind precipitation">0.1 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 24 d. <br /><span>Ketvirtadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:22</strong><br />
+                saulė leidžiasi <strong>16:40</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -11&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/w.gif" alt="V" /> <strong>V</strong> 1.2m/s</td>
+        <td class="wind pressure">1016.9 hPa</td>
+        <td class="wind precipitation">0.2 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -13&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/w.gif" alt="V" /> <strong>V</strong> 2.6m/s</td>
+        <td class="wind pressure">1017.5 hPa</td>
+        <td class="wind precipitation">0.1 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -8&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/w.gif" alt="V" /> <strong>V</strong> 1.6m/s</td>
+        <td class="wind pressure">1017.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -10&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/wnw.gif" alt="ŠV" /> <strong>ŠV</strong> 2.8m/s</td>
+        <td class="wind pressure">1018.3 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 25 d. <br /><span>Penktadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:21</strong><br />
+                saulė leidžiasi <strong>16:42</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -12&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/wnw.gif" alt="ŠV" /> <strong>ŠV</strong> 3.5m/s</td>
+        <td class="wind pressure">1019.6 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -11&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nw.gif" alt="ŠV" /> <strong>ŠV</strong> 2.2m/s</td>
+        <td class="wind pressure">1020.8 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -6&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/wnw.gif" alt="ŠV" /> <strong>ŠV</strong> 2.5m/s</td>
+        <td class="wind pressure">1022.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -9&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/nw.gif" alt="ŠV" /> <strong>ŠV</strong> 2.5m/s</td>
+        <td class="wind pressure">1025 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 26 d. <br /><span>Šeštadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_3" title="Priešpilnis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:20</strong><br />
+                saulė leidžiasi <strong>16:44</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -10&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sw.gif" alt="PV" /> <strong>PV</strong> 1.7m/s</td>
+        <td class="wind pressure">1027.2 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -11&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ssw.gif" alt="PV" /> <strong>PV</strong> 1.9m/s</td>
+        <td class="wind pressure">1028 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_04d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -8&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sw.gif" alt="PV" /> <strong>PV</strong> 3.2m/s</td>
+        <td class="wind pressure">1028.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -12&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ssw.gif" alt="PV" /> <strong>PV</strong> 3m/s</td>
+        <td class="wind pressure">1029 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 27 d. <br /><span>Sekmadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_4" title="Pilnatis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:18</strong><br />
+                saulė leidžiasi <strong>16:46</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -17&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/ssw.gif" alt="PV" /> <strong>PV</strong> 4m/s</td>
+        <td class="wind pressure">1028.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -22&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sse.gif" alt="PR" /> <strong>PR</strong> 4.3m/s</td>
+        <td class="wind pressure">1027.8 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -16&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/s.gif" alt="P" /> <strong>P</strong> 2m/s</td>
+        <td class="wind pressure">1027.5 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -22&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sse.gif" alt="PR" /> <strong>PR</strong> 4.4m/s</td>
+        <td class="wind pressure">1027.3 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 28 d. <br /><span>Pirmadienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_5" title="Pilnatis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:17</strong><br />
+                saulė leidžiasi <strong>16:48</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_02n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -23&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/s.gif" alt="P" /> <strong>P</strong> 4.5m/s</td>
+        <td class="wind pressure">1027.1 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -23&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sse.gif" alt="PR" /> <strong>PR</strong> 4.2m/s</td>
+        <td class="wind pressure">1026.1 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_02d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -14&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/s.gif" alt="P" /> <strong>P</strong> 2.4m/s</td>
+        <td class="wind pressure">1026 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -19&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/se.gif" alt="PR" /> <strong>PR</strong> 5.2m/s</td>
+        <td class="wind pressure">1025.1 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div><div class="weather_box"><div class="clear"></div>
+				<table class="oraiTable" width="680" cellspacing="0" cellpadding="3" align="center"><tr>
+                <td colspan="3" class="day_head">Sausio 29 d. <br /><span>Antradienis</span></td>
+                <td class="day_metainfo" colspan="3"><span class="fr moons_sprite moon_5" title="Pilnatis"></span>
+				<div class="fr" style="padding:3px 5px 0 0">
+				saulė teka <strong>08:15</strong><br />
+                saulė leidžiasi <strong>16:49</strong></div></td>
+            </tr><tr>
+    <th colspan="2" class="oraiTableHeader">Laikas</th>
+    <th class="oraiTableHeader">Temperatūra</th>
+    <th class="oraiTableHeader">Vėjas</th>
+    <th class="oraiTableHeader">Slėgis</th>
+    <th class="oraiTableHeader">Krituliai</th>
+</tr>    <tr class="oraiTableRow3">
+        <td class="time">02:00 - 08:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01n fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -19&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/se.gif" alt="PR" /> <strong>PR</strong> 5.3m/s</td>
+        <td class="wind pressure">1025.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">08:00 - 14:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_01d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -18&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/se.gif" alt="PR" /> <strong>PR</strong> 5.3m/s</td>
+        <td class="wind pressure">1025 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow3">
+        <td class="time">14:00 - 20:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -10&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sse.gif" alt="PR" /> <strong>PR</strong> 3.2m/s</td>
+        <td class="wind pressure">1025.7 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+            <tr class="oraiTableRow2">
+        <td class="time">20:00 - 02:00</td>
+        <td class="icon">
+            <span class="weather_icons weather_icon_03d fl"></span>
+        </td>
+        <td class="temperature" style="color: #002093;">
+                -15&deg;
+        </td>
+        <td class="wind"><img src="/img/wind/sse.gif" alt="PR" /> <strong>PR</strong> 4.3m/s</td>
+        <td class="wind pressure">1026.3 hPa</td>
+        <td class="wind precipitation">0 mm</td>
+    </tr>
+
+        </table></div>
+    <p class="info">Vėjo kryptys: Š = Šiaurės, P = Pietų, R = Rytų, V = Vakarų, NK - Nepastovios krypties</p>
+
+</div>
+
+        </td>
+        <td width="310" valign="top">
+
+            <div style="border:none; margin:10px 5px 10px 0px;">
+    <h3 class="textSection-title" style="margin-bottom:0"><a href="http://orai.15min.lt/lt/prognozes/">Orų prognozės</a></h3>
+    <div class="clear"></div>
+    <div class="fl textSection"><strong>Didieji miestai:</strong> <br />» <span class="textSection-active"> Vilnius </span><br /><a href="/lt/prognozes/kaunas" >» Kaunas</a><br /><a href="/lt/prognozes/klaipeda" >» Klaipėda</a><br /><a href="/lt/prognozes/siauliai" >» Šiauliai</a><br /><a href="/lt/prognozes/panevezys" >» Panevėžys</a><br /><a href="/lt/prognozes/alytus" >» Alytus</a><br /><a href="/lt/prognozes/utena" >» Utena</a><br /><a href="/lt/prognozes/mazeikiai" >» Mažeikiai</a><br /><a href="/lt/prognozes/varena" >» Varėna</a><br /><a href="/lt/prognozes/birzai" >» Biržai</a><br /><a href="/lt/prognozes/telsiai" >» Telšiai</a><br /><a href="/lt/prognozes/taurage" >» Tauragė</a><br /><a href="/lt/prognozes/marijampole" >» Marijampolė</a><br /><a href="/lt/prognozes/kedainiai" >» Kėdainiai</a><br /><a href="/lt/prognozes/jonava" >» Jonava</a><br /><a href="/lt/prognozes/kretinga" >» Kretinga</a><br /><a href="/lt/prognozes/plunge" >» Plungė</a><br /><a href="/lt/prognozes/radviliskis" >» Radviliškis</a><br /><a href="/lt/prognozes/silute" >» Šilutė</a><br /><a href="/lt/prognozes/ukmerge" >» Ukmergė</a><br /><a href="/lt/prognozes/visaginas" >» Visaginas</a><br /><a href="/lt/prognozes/gargzdai" >» Gargždai</a><br /></div><div class="fl textSection"><strong>Kurortai:</strong> <br /><a href="/lt/prognozes/palanga" >» Palanga</a><br /><a href="/lt/prognozes/nida" >» Nida</a><br /><a href="/lt/prognozes/juodkrante" >» Juodkrantė</a><br /><a href="/lt/prognozes/sventoji" >» Šventoji</a><br /><a href="/lt/prognozes/anyksciai" >» Anykščiai</a><br /><a href="/lt/prognozes/druskininkai" >» Druskininkai</a><br /><a href="/lt/prognozes/birstonas" >» Birštonas</a><br /><a href="/lt/prognozes/moletai" >» Molėtai</a><br /><a href="/lt/prognozes/trakai" >» Trakai</a><br /></div><div class="clear"></div><div class="fl textSection"><strong>Prognozė burlenčių, jėgos aitvarų ir jachtų mėgėjams:</strong> <br /><div class="fl" style="width:130px"><a href="/lt/prognozes/svencele" >» Svencelė</a><br /><a href="/lt/prognozes/dreverna" >» Dreverna</a><br /><a href="/lt/prognozes/ventaine" >» Ventainė</a><br /><a href="/lt/prognozes/monciskes" >» Monciškės</a><br /><a href="/lt/prognozes/elektrenu-marios" >» Elektrėnų marios</a><br /><a href="/lt/prognozes/kauno-marios" >» Kauno marios</a></div><div class="fl" style="width:130px"><a href="/lt/prognozes/dusia" >» Dusia</a><br /><a href="/lt/prognozes/kertuoja" >» Kertuoja</a><br /><a href="/lt/prognozes/plateliai" >» Plateliai</a><br /><a href="/lt/prognozes/alausas" >» Alaušas</a><br /><a href="/lt/prognozes/galve" >» Galvė</a><br /></div></div><div class="clear"></div><div class="fl textSection"><strong>Europos miestai:</strong> <br /><div class="fl" style="width:130px"><a href="/lt/prognozes/amsterdam" >» Amsterdamas </a><br /><a href="/lt/prognozes/andorra-la-vella" >» Andora </a><br /><a href="/lt/prognozes/athens" >» Atėnai </a><br /><a href="/lt/prognozes/barcelona" >» Barselona</a><br /><a href="/lt/prognozes/belgrade" >» Belgradas </a><br /><a href="/lt/prognozes/berlin" >» Berlynas</a><br /><a href="/lt/prognozes/berne" >» Bernas </a><br /><a href="/lt/prognozes/bratislava" >» Bratislava </a><br /><a href="/lt/prognozes/bremen" >» Bremenas</a><br /><a href="/lt/prognozes/budapest" >» Budapeštas </a><br /><a href="/lt/prognozes/bucharest" >» Bukareštas </a><br /><a href="/lt/prognozes/dublin" >» Dublinas </a><br /><a href="/lt/prognozes/frankfurt-am-main" >» Frankfurtas prie Maino</a><br /><a href="/lt/prognozes/helsinki" >» Helsinkis </a><br /><a href="/lt/prognozes/kyiv" >» Kijevas </a><br /><a href="/lt/prognozes/chisinau" >» Kišiniovas </a><br /><a href="/lt/prognozes/copenhagen" >» Kopenhaga </a><br /><a href="/lt/prognozes/lisbon" >» Lisabona </a><br /><a href="/lt/prognozes/ljublijana" >» Liubliana </a><br /><a href="/lt/prognozes/luxembourg" >» Liuksemburgas</a><br /><a href="/lt/prognozes/london" >» Londonas </a><br /><a href="/lt/prognozes/madrid" >» Madridas</a></div><div class="fl" style="width:130px"><a href="/lt/prognozes/valletta" >» Malta Valeta </a><br /><a href="/lt/prognozes/moscow" >» Maskva </a><br /><a href="/lt/prognozes/milan" >» Milanas</a><br /><a href="/lt/prognozes/minsk" >» Minskas </a><br /><a href="/lt/prognozes/monaco" >» Monakas </a><br /><a href="/lt/prognozes/oslo" >» Oslas </a><br /><a href="/lt/prognozes/paris" >» Paryžius </a><br /><a href="/lt/prognozes/prague" >» Praha </a><br /><a href="/lt/prognozes/reykjavik" >» Reikjavikas </a><br /><a href="/lt/prognozes/rome" >» Roma </a><br /><a href="/lt/prognozes/riga" >» Ryga </a><br /><a href="/lt/prognozes/san-marino" >» San Marinas </a><br /><a href="/lt/prognozes/sarajevo" >» Sarajevas </a><br /><a href="/lt/prognozes/skopje" >» Skopjė </a><br /><a href="/lt/prognozes/sofia" >» Sofija </a><br /><a href="/lt/prognozes/saint-petersburg" >» St.Peterburgas</a><br /><a href="/lt/prognozes/stokcholm" >» Stokholmas </a><br /><a href="/lt/prognozes/tallinn" >» Talinas </a><br /><a href="/lt/prognozes/tirana" >» Tirana </a><br /><a href="/lt/prognozes/warsaw" >» Varšuva </a><br /><a href="/lt/prognozes/vatican" >» Vatikanas </a><br /><a href="/lt/prognozes/vienna" >» Viena </a><br /><a href="/lt/prognozes/zagreb" >» Zagrebas </a><br /></div></div><div class="clear"></div></div>
+            <div style="border:0px solid; width:100%; background-color:#A3C07E;"><img src="img/spacer.gif" width="300px" height="1" /></div>
+            
+<script type="text/javascript" src="http://adsplius.lt/banners_15min.js?pos=12&amp;lng=lt&amp;rnd=651839197&amp;wrap=ads-cnt&amp;p=10001"></script>            <div style="border:0px solid; width:100%; background-color:#A3C07E;"><img src="img/spacer.gif" width="300px" height="1" /></div>
+            
+        </td>
+    </tr>
+</table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="meniudown" width="1000" height="30">
+                        <table class="footer-menu" align="left" border="0" cellpadding="0" cellspacing="0">
+                            <tr>
+                                <td class="meniudown meniu-blue-ln" align="center"><a href="/terms_of_use.html" id="termsofuse">Atsakomybės apribojimas</a></td>
+                                                                <td class="meniudown meniu-blue-ln" align="center"><a href="lt/kontaktai">Kontaktai</a></td>
+                                                                    <td class="meniudown meniu-blue-ln" align="center"><a href="lt/first">Pasidaryk Orai.lt pirmuoju</a></td>
+                                                                        <td class="meniudown meniu-blue-ln" align="center"><a href="lt/infoblock">Orai tavo puslapyje</a></td>
+                                                                    <td class="meniudown meniu-blue-ln" align="right">&copy;&nbsp;2003-2013&nbsp;Orai.lt</td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+<br />
+<script type="text/javascript" src="http://www.15min.lt/js/tracking/spring.js"></script>
+<script type="text/javascript">/* <![CDATA[ */ var sp_e0 = { "s":"15min", "cp":"15min", "url":document.location.href }; spring.c(sp_e0); /* ]]> */</script>
+<noscript><img src="http://15min.spring-tns.net/j0=,,,;+,,cp=15min;;;;" alt=""/></noscript>
+<script type="text/javascript">
+jQuery(function(){
+    jQuery('#termsofuse').fancybox({
+        width:500
+    });
+});
+</script>
+</body></html>
